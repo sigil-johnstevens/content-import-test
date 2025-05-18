@@ -1,0 +1,19 @@
+{
+  "scenes": [
+    {
+      "name": "Terraforming Outpost",
+      "thumbnail": "assets/hive-terraform-thumb.webp",
+      "url": "scenes/terraforming-outpost.json"
+    },
+    {
+      "name": "Military Hover Transport",
+      "thumbnail": "assets/hover-military-transport-bay-thumb.webp",
+      "url": "scenes/military-transport.json"
+    },
+    {
+      "name": "Medicine Wheel",
+      "thumbnail": "assets/W9zejdbp9WanW8Sy-thumb.webp",
+      "url": "scenes/medicine-wheel.json"
+    }
+  ]
+}
