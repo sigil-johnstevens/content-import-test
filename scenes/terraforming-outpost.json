@@ -3,7 +3,7 @@
   "navigation": false,
   "navName": "",
   "background": {
-    "src": "assets/hive-terraform.webp",
+    "src": "https://sigil-johnstevens.github.io/content-import-test/assets/hive-terraform.webp",
     "anchorX": 0,
     "anchorY": 0,
     "offsetX": 0,
@@ -17,7 +17,7 @@
   },
   "foreground": null,
   "foregroundElevation": 4,
-  "thumb": "assets/hive-terraform-thumb.webp",
+  "thumb": "https://sigil-johnstevens.github.io/content-import-test/assets/hive-terraform-thumb.webp",
   "width": 8000,
   "height": 8000,
   "padding": 0.05,
