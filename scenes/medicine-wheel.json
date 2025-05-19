@@ -3,7 +3,7 @@
   "navigation": false,
   "navName": "",
   "background": {
-    "src": "https://sigil-johnstevens.github.io/content-import-test/assets/hover-military-transport-bay.webpassets/bighorn-medicine-wheel.webp",
+    "src": "https://sigil-johnstevens.github.io/content-import-test/assets/bighorn-medicine-wheel.webp",
     "anchorX": 0,
     "anchorY": 0,
     "offsetX": 0,
@@ -17,7 +17,7 @@
   },
   "foreground": null,
   "foregroundElevation": 4,
-  "thumb": "https://sigil-johnstevens.github.io/content-import-test/assets/hover-military-transport-bay.webpassets/W9zejdbp9WanW8Sy-thumb.webp",
+  "thumb": "https://sigil-johnstevens.github.io/content-import-test/assets/W9zejdbp9WanW8Sy-thumb.webp",
   "width": 6000,
   "height": 6000,
   "padding": 0.25,
