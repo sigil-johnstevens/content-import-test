@@ -12,14 +12,14 @@
       "thumbnail": "https://sigil-johnstevens.github.io/content-import-test/assets/hover-military-transport-bay-thumb.webp",
       "url": "https://sigil-johnstevens.github.io/content-import-test/scenes/military-transport.json",
       "creator": "Rune Weaver Maps",
-      "campaignId": "test-campaign-456"
+      "campaignId": "test-campaign-123"
     },
     {
       "name": "Medicine Wheel",
       "thumbnail": "https://sigil-johnstevens.github.io/content-import-test/assets/W9zejdbp9WanW8Sy-thumb.webp",
       "url": "https://sigil-johnstevens.github.io/content-import-test/scenes/medicine-wheel.json",
       "creator": "Magic Map Maker",
-      "campaignId": "test-campaign-789"
+      "campaignId": "test-campaign-123"
     }
   ]
 }
