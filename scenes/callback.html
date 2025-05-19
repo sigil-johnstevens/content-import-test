@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Patreon OAuth Redirect</title>
+</head>
+<body>
+  <script>
+    const hash = new URLSearchParams(window.location.hash.substring(1));
+    const token = hash.get("access_token");
+    if (token) {
+      localStorage.setItem("patreon_token", token);
+      alert("✅ Patreon connected! You can return to Foundry.");
+      window.close();
+    } else {
+      alert("❌ Failed to get Patreon access token.");
+    }
+  </script>
+</body>
+</html>
