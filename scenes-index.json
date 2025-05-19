@@ -4,21 +4,21 @@
       "name": "Terraforming Outpost",
       "thumbnail": "https://sigil-johnstevens.github.io/content-import-test/assets/hive-terraform-thumb.webp",
       "url": "https://sigil-johnstevens.github.io/content-import-test/scenes/terraforming-outpost.json",
-      "creator": "Massive Maps",
+      "creator": "Map Pack 1",
       "campaignId": "test-campaign-123"
     },
     {
       "name": "Military Hover Transport",
       "thumbnail": "https://sigil-johnstevens.github.io/content-import-test/assets/hover-military-transport-bay-thumb.webp",
       "url": "https://sigil-johnstevens.github.io/content-import-test/scenes/military-transport.json",
-      "creator": "Rune Weaver Maps",
+      "creator": "Map Pack 2",
       "campaignId": "test-campaign-123"
     },
     {
       "name": "Medicine Wheel",
       "thumbnail": "https://sigil-johnstevens.github.io/content-import-test/assets/W9zejdbp9WanW8Sy-thumb.webp",
       "url": "https://sigil-johnstevens.github.io/content-import-test/scenes/medicine-wheel.json",
-      "creator": "Magic Map Maker",
+      "creator": "Map Pack 3",
       "campaignId": "test-campaign-123"
     }
   ]
